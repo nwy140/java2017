@@ -1,0 +1,16 @@
+package com.SilentWolfStudios.interfaceClasses;
+
+public class Dog  extends  Canine{
+
+	public static void main(String[] args) {
+
+
+	}
+
+	@Override
+	public void makeNoise() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

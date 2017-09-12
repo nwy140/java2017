@@ -1,0 +1,14 @@
+package com.SilentWolfStudios.interfaceClasses;
+
+public class InterfaceTest {
+	Dog myDog = new Dog();
+	
+	
+	
+	
+	
+	
+	myDog.set
+	
+	System.out.println();
+}

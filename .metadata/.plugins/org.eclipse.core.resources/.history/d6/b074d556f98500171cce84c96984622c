@@ -1,0 +1,10 @@
+package com.SilentWolfStudios.interfaceClasses;
+
+public class Dog  extends Animal{
+
+	public static void main(String[] args) {
+
+
+	}
+
+}
